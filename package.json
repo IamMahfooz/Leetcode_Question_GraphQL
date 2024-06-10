@@ -1,0 +1,19 @@
+{
+  "name": "lc-board-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "leetcode-query": "^1.2.3",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2"
+  }
+}
